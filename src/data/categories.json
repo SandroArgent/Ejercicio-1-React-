@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "COOLERS Y VENTILADORES", "image": "https://img.icons8.com/parakeet/100/fan.png" },
+  { "id": 2, "name": "MOUSES Y TECLADOS", "image": "https://img.icons8.com/parakeet/100/mouse.png" },
+  { "id": 3, "name": "WEBCAMS", "image": "https://img.icons8.com/parakeet/100/webcam.png" },
+  { "id": 4, "name": "MEMORIAS RAM", "image": "https://img.icons8.com/parakeet/100/memory-slot.png" },
+  { "id": 5, "name": "ALMACENAMIENTO", "image": "https://img.icons8.com/parakeet/100/hdd.png" },
+  { "id": 6, "name": "CONECTIVIDAD", "image": "https://img.icons8.com/parakeet/100/wi-fi-router.png" },
+  { "id": 7, "name": "IMPRESORAS", "image": "https://img.icons8.com/parakeet/100/printer.png" }
+]

@@ -1,0 +1,19 @@
+{
+  "menuItems": [
+    { "id": 1, "label": "Categorías", "link": "#", "hasDropdown": true },
+    { "id": 2, "label": "Ofertas", "link": "#" },
+    { "id": 3, "label": "Cupones", "link": "#" },
+    { "id": 4, "label": "Supermercado", "link": "#" },
+    { "id": 5, "label": "Moda", "link": "#" },
+    { "id": 6, "label": "Mercado Play", "link": "#", "isNew": true },
+    { "id": 7, "label": "Vender", "link": "#" },
+    { "id": 8, "label": "Ayuda", "link": "#" }
+  ],
+  "userSection": [
+    { "id": 1, "label": "Usuario", "link": "#", "isUser": true },
+    { "id": 2, "label": "Mis compras", "link": "#" },
+    { "id": 3, "label": "Favoritos", "link": "#", "hasDropdown": true },
+    { "id": 4, "label": "Notificaciones", "icon": "bell", "count": 12 },
+    { "id": 5, "label": "Carrito", "icon": "cart", "count": 3 }
+  ]
+}

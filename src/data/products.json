@@ -1,0 +1,108 @@
+{
+  "componentes": [
+    {
+      "id": 1,
+      "name": "Gabinete Para Pc Tecware Vx Trinity M2 W M-atx Tripe Vidrio...",
+      "price": 67000,
+      "originalPrice": null,
+      "discount": null,
+      "cuotas": "Mismo precio 3 cuotas de $ 22.333",
+      "shipping": "Envío gratis FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_908436-MLA74653303666_022024-O.webp",
+      "coupon": "Cupón 5% OFF"
+    },
+    {
+      "id": 2,
+      "name": "Motherboard Amd Asrock A520m Ryzen Ddr4 Hdmi Am4...",
+      "price": 93585,
+      "originalPrice": 174999,
+      "discount": "46% OFF",
+      "cuotas": "Mismo precio 3 cuotas de $ 31.195",
+      "shipping": "Envío gratis FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_830588-MLA74443183577_022024-O.webp",
+      "coupon": "Cupón 5% OFF"
+    },
+    {
+      "id": 3,
+      "name": "Placa De Video Amd Asrock Phantom Gaming Radeon Seri...",
+      "price": 151370,
+      "originalPrice": null,
+      "discount": null,
+      "cuotas": "Mismo precio 3 cuotas de $ 50.456",
+      "shipping": "Envío gratis FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_600869-MLA73685458022_012024-O.webp",
+      "coupon": "Cupón 5% OFF"
+    },
+    {
+      "id": 4,
+      "name": "Pasta Térmica Arctic Mx-6 4gr Rendimiento Extremo !",
+      "price": 9988,
+      "originalPrice": null,
+      "discount": null,
+      "cuotas": null,
+      "shipping": "FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_783858-MLA54238541249_032023-O.webp",
+      "coupon": "Cupón 5% OFF"
+    },
+    {
+      "id": 5,
+      "name": "Procesador Amd Athlon 3000g Yd3000c6fh De 2 Núcleos Y...",
+      "price": 67999,
+      "originalPrice": 129999,
+      "discount": "47% OFF",
+      "cuotas": "Mismo precio 3 cuotas de $ 22.666",
+      "shipping": "Envío gratis FULL",
+      "tag": null,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_624107-MLA44535317764_012021-O.webp",
+      "coupon": null
+    }
+  ],
+  "cables": [
+    {
+      "id": 6,
+      "name": "Hub Usb 3.0 4 Puertos Alta Velocidad 5gbps Mac Win Lin...",
+      "price": 9512,
+      "originalPrice": 10228,
+      "discount": "7% OFF",
+      "shipping": "FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_696541-MLA75591349547_042024-O.webp"
+    },
+    {
+      "id": 7,
+      "name": "Cable De Red Vention Cat6 Certificado - 10 Metros Plano...",
+      "price": 12766,
+      "shipping": "FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_667252-MLA47020087192_082021-O.webp"
+    },
+    {
+      "id": 8,
+      "name": "Cable Display Port 1.4 Vention - Certificado Profesional - 8k Hd...",
+      "price": 20834,
+      "shipping": "Envío gratis FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_908581-MLA48443590518_122021-O.webp"
+    },
+    {
+      "id": 9,
+      "name": "Cable Extensor Usb 3.0 Vention - Macho A Hembra - 3 Metros -...",
+      "price": 9788,
+      "shipping": "FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_692484-MLA49472391218_032022-O.webp"
+    },
+    {
+      "id": 10,
+      "name": "Adaptador Hub Usb Usb C 7 Puertos Usb 7-1 Multiplicador...",
+      "price": 14988,
+      "shipping": "FULL",
+      "tag": "MÁS VENDIDO",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_897531-MLA54984252627_052023-O.webp"
+    }
+  ]
+}

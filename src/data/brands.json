@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "HP", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/330px-HP_logo_2012.svg.png" },
+  { "id": 2, "name": "DELL", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dell_logo_2016.svg/300px-Dell_logo_2016.svg.png" },
+  { "id": 3, "name": "LENOVO", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lenovo_logo_2015.svg/450px-Lenovo_logo_2015.svg.png" },
+  { "id": 4, "name": "ASUS", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ASUS_Logo.svg/512px-ASUS_Logo.svg.png" },
+  { "id": 5, "name": "SAMSUNG", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/512px-Samsung_Logo.svg.png" },
+  { "id": 6, "name": "ACER", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Acer_Logo.svg/512px-Acer_Logo.svg.png" }
+]

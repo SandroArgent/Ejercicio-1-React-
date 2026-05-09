@@ -8,26 +8,48 @@ import brands from "./data/brands.json"
 
 import ProductsSection from "./components/ProductSection"
 import products from "./data/products.json"
-import ProducsCard from "./components/ProductsCard"
+import ProductsCard from "./components/ProductsCard"
+import ProductDetail from './components/ProductDetail'
 
 
 
 function App() {
   
+
+  const [elProducto, colocarProductoSeleccionado] = useState(null)
   
 
   return (
     <>
-      <Header menu = {navigation}></Header>
-      <Hero categoria = {categories} marcas = {brands}></Hero>
-      <ProductsSection lista = {products}></ProductsSection>
-      <ProducsCard tarjeta={products}></ProducsCard>
+      <Header menu = {navigation.menuItems}></Header>
+      
+      {elProducto ? (
+        <ProductDetail
+        producto={elProducto}
+        volver={() => colocarProductoSeleccionado(null)}
+        ></ProductDetail>
+      ) : (
+        <>
+        <Hero categorias = {categories} marcas = {brands}></Hero>
 
-
-
-      <div>Hola mundo</div>
+        <ProductsSection // esto va a renderizar otro componente  llamado productCard y le pasaré los productos y el select
+        productos= {[...products.componentes, ...products.cables]}
+        seleccionar = { colocarProductoSeleccionado}
+        ></ProductsSection>
+      
+      
+      </>
+      
+      )}
+      
+      
     </>
   )
 }
+
+/* logica del operador ternario: Si elProducto tiene un valor (no es null, undefined, false, etc.) → renderiza A
+Si elProducto es null (o falso) → renderiza B */
+
+
 
 export default App

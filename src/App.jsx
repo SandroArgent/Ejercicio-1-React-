@@ -21,8 +21,11 @@ function App() {
 
   return (
     <>
+
+  <div className='min-h-screen bg-zinc-900 text-white'>
       <Header menu = {navigation.menuItems}></Header>
-      
+
+      <main>
       {elProducto ? (
         <ProductDetail
         producto={elProducto}
@@ -41,14 +44,15 @@ function App() {
       </>
       
       )}
+      </main>
       
       
+    </div>
     </>
   )
 }
 
-/* logica del operador ternario: Si elProducto tiene un valor (no es null, undefined, false, etc.) → renderiza A
-Si elProducto es null (o falso) → renderiza B */
+
 
 
 
